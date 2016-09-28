@@ -1,0 +1,11 @@
+/Users/chokst/MavenizedProjectEclipseWSNew/SpringBootAndBatchProject/src/main/java/spring/batch/boot/Offer.java
+/Users/chokst/MavenizedProjectEclipseWSNew/SpringBootAndBatchProject/src/main/java/spring/batch/boot/IOMFeedWriter.java
+/Users/chokst/MavenizedProjectEclipseWSNew/SpringBootAndBatchProject/src/main/java/spring/batch/boot/IOMIncentive.java
+/Users/chokst/MavenizedProjectEclipseWSNew/SpringBootAndBatchProject/src/main/java/spring/batch/boot/OfferFeed.java
+/Users/chokst/MavenizedProjectEclipseWSNew/SpringBootAndBatchProject/src/main/java/spring/batch/boot/Application.java
+/Users/chokst/MavenizedProjectEclipseWSNew/SpringBootAndBatchProject/src/main/java/spring/batch/boot/IOMFeedReader.java
+/Users/chokst/MavenizedProjectEclipseWSNew/SpringBootAndBatchProject/src/main/java/spring/batch/boot/BatchConfiguration.java
+/Users/chokst/MavenizedProjectEclipseWSNew/SpringBootAndBatchProject/src/main/java/spring/batch/boot/DummyProcessor.java
+/Users/chokst/MavenizedProjectEclipseWSNew/SpringBootAndBatchProject/src/main/java/spring/batch/boot/DummyWriter.java
+/Users/chokst/MavenizedProjectEclipseWSNew/SpringBootAndBatchProject/src/main/java/spring/batch/boot/IOMFeedProcessor.java
+/Users/chokst/MavenizedProjectEclipseWSNew/SpringBootAndBatchProject/src/main/java/spring/batch/boot/DummyReader.java
